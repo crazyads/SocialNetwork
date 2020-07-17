@@ -1,0 +1,4 @@
+16/07/2020 16:30:31  Main: Cross-thread operation not valid: Control 'statusStrip1' accessed from a thread other than the thread it was created on.
+16/07/2020 16:36:30  Main: Cross-thread operation not valid: Control 'XtraFormMain' accessed from a thread other than the thread it was created on.
+16/07/2020 16:37:45  Main: Cross-thread operation not valid: Control 'XtraFormMain' accessed from a thread other than the thread it was created on.
+16/07/2020 16:37:50  Main: Cross-thread operation not valid: Control 'XtraFormMain' accessed from a thread other than the thread it was created on.
